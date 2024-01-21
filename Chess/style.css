@@ -22,8 +22,8 @@ body {
 }
 #footer {
  border:solid 1px;
- padding: 10px;
- margin:10px;
+ padding: 20px;
+ margin:20px;
 }
 #container {
  margin-top:20%;
@@ -38,7 +38,7 @@ body {
  padding:10px;
  margin:0px;
  width:100%;
- background-color:lightyellow;
+ background-color:white;
  text-align:center; 
  z-index:10; 
 font-family: 'JustLettersMedium'; 
@@ -46,6 +46,6 @@ font-family: 'JustLettersMedium';
  font-style: normal; 
  font-size:36px;}
 img {
- margin-left: 5px;
+ margin-left: 10px;
  margin-top:10px;
  }
