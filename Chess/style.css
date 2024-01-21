@@ -59,11 +59,10 @@ clear:both;
 #footer {
 border:solid 1px;
 padding: 10px;
-margin:0px;
+margin-top:0;
+margin-bottom:0;
 padding:10px;
-margin:0px;
 width:100%;
 background-color:#8267D5;
 text-align:center;
-float:left;
 }
