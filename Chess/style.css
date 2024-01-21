@@ -8,7 +8,7 @@ left:0px;
 padding:10px;
 margin:0px;
 width:100%;
-background-color:#62C2CE;
+background-color:#8267D5;
 text-align:center;
 z-index:10;
 font-family: 'JustLettersMedium';
@@ -23,21 +23,21 @@ margin-top:10px;
 }
 
 #container {
-margin-top:20%;
-margin-left:10%;
+margin-top:10%;
+margin-left:20%;
 margin-right:10%;
-margin-bottom:5%;
+margin-bottom:10%;
 }
 
 .row{
 position:relative;
-margin-left:12%;
+margin-left:10%;
 margin-right:10%;
 }
 
 .white{
 border: 1px solid black;
-width: 12%;
+width: 10%;
 height: 60px;
 background-color:white;
 float:left;
@@ -60,6 +60,10 @@ clear:both;
 #footer {
 border:solid 1px;
 padding: 10px;
-margin:10px;
+margin:0px;
+padding:10px;
+width:100%;
+background-color:#8267D5;
+text-align:center;
+  position:center;
 }
-
