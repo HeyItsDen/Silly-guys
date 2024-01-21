@@ -20,13 +20,6 @@ body {
  background-color:#787878;
  float:left;
 }
-#footer {
- position:fixed;
- border:solid 1px;
- padding: 20px;
- margin:20px;
- background-color:white;
- text-align:center; 
 }
 #container {
  margin-top:20%;
@@ -52,3 +45,10 @@ img {
  margin-left: 10px;
  margin-top:10px;
  }
+#footer {
+ position:fixed;
+ border:solid 1px;
+ padding: 20px;
+ margin:20px;
+ background-color:white;
+ text-align:center; 
