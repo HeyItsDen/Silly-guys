@@ -24,6 +24,8 @@ body {
  border:solid 1px;
  padding: 20px;
  margin:20px;
+ background-color:white;
+ text-align:center; 
 }
 #container {
  margin-top:20%;
