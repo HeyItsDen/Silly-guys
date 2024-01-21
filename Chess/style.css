@@ -24,7 +24,7 @@ margin-top:10px;
 
 #container {
 margin-top:10%;
-margin-left:20%;
+margin-left:10%;
 margin-right:10%;
 margin-bottom:10%;
 }
@@ -55,13 +55,15 @@ float:left;
 clear:both;
 }
 
- 
 
 #footer {
 border:solid 1px;
+padding: 10px;
+margin:0px;
 padding:10px;
 margin:0px;
 width:100%;
 background-color:#8267D5;
 text-align:center;
+float:left;
 }
