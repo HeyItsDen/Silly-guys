@@ -1,0 +1,51 @@
+h1 {
+              font-family: 'impact';
+              font-weight: normal;
+              font-style: normal;
+              color: #304c84;
+			  text-align: center;}
+*{
+ font-family: 'impact';
+              font-size: 17px;
+              font-weight: normal;
+              font-style: normal;
+              color: #304c84;
+			  text-align: center;}
+
+			body {
+			    background-image: url("https://media.discordapp.net/attachments/809969616029220914/1203802029261332490/58014318_cwRISWE3dkJEhn1_1.png?ex=65d26b01&is=65bff601&hm=e94ed99bd4f883a5d8b41c4f113f121944e71c4320204890d0daaf11ff8ad310&=&format=webp&quality=lossless&width=1165&height=993");
+            background-repeat: no-repeat;
+               background-attachment: fixed;
+  background-size: cover;
+              width: 100%;
+				margin: 0 auto;}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;
+                padding: 25px;}
+
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
+            .column1 {
+  				background-color: #8DB5DA;}
+            .column2 {
+    		    background-color: #8D99DA;}
+			.column3 {
+			    background-color: #BE97E3;}
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+			   
+				background-color: #e6e7fa;
+				padding: 0.5em 0;}
+#feature{
+				 background-color: #97baea;
+                
+                 background-image: url("https://f2.toyhou.se/file/f2-toyhou-se/images/67241354_dgLlgmERaa4RP9B.gif");
+                 background-size: 250px;
+                 background-position: right;
+                 background-repeat:no-repeat;}
