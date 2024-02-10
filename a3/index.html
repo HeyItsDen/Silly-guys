@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta name="description" content="Week 6 - BC - Rhombus">
+<meta name="description" content="Rhombus Artifact">
 <meta charset="utf-8">
-<title>ROGERS RHOMBUS</title>
+<title>Rogers Rhombus</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <label>What is the size of Rhombus?</label><br>
@@ -25,22 +26,28 @@
 <br>
 <label>Choose symbol for Rhombus</label>
 <select id="symbol">
+<option value="&">&</option>
 <option value="#">#</option>
 <option value="%">%</option>
-<option value="+">+</option>
 </select>
 <br>
-<button onclick="createRhombus(document.getElementById('rHeight').value,
+ <button onclick="createRhombus(document.getElementById('rHeight').value,
 document.getElementById('colorEven').value,
 document.getElementById('colorOdd').value,
-document.getElementById('symbol').value);">Display Rhombus</button>
-<div id="upLeft">Rhombus</div>
-<div id="upRight"></div>
-<div class="clear"></div>
-<div id="downLeft"></div>
-<div id="downRight"></div>
-
-<script src="script.js"></script>
+document.getElementById('symbol').value);">Display the Rhombus</button><br><br>
+    <div id="upLeft"></div>
+    <div id="upRight"></div>
+    <div class="clear"></div>
+    <div id="downLeft"></div>
+    <div id="downRight"></div>
+    <script src="script.js"></script>
   
+  <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!">
+    </a>
+<a href="http://validator.w3.org/check?uri=referer" target="_blank"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0" height="31" width="88"></a>
+
 </body>
 </html>
